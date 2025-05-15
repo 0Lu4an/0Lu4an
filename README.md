@@ -1,5 +1,5 @@
 - 👋 Olá, sou @0Lu4an
-- Estou interessado em aprender programação
-- Atualmente estou aprendendo programação
-- Procuro colaborar em tudo que for do meu alcançe
-- Curiosidade: Aprender tudo sobre programação..
+- Estou interessado em aprender programação.
+- Atualmente estou estudando, mas disposto a novas oportunidades.
+- Procuro colaborar em tudo que for do meu alcançe.
+- Curiosidade: Aprender tudo que esse mundo da programação pode me proporcionar.
